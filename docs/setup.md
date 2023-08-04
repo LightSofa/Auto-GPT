@@ -231,7 +231,7 @@ Create a virtual environment to run in.
 
 ```shell
 python -m venv venvAutoGPT
-source venvAutoGPT/bin/activate
+source venvAutoGPT/bin/activate # run "venvAutoGPT\Scripts\activate.bat" instead of this command on windows.
 pip3 install --upgrade pip
 ```
 
